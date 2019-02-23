@@ -1,7 +1,7 @@
 int main()
 {
   int *p1, *p2;
-  int n = 30;
+  int n;
   p1 = &n;
   p2 = &n; // error
     
